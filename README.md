@@ -1,4 +1,4 @@
-# This is an Live Code Sharing
+# Live Code Sharing
 
 ### This is a NodeJS based web application
 
